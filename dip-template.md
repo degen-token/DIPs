@@ -7,6 +7,7 @@ status: Draft
 type: <Standards Track, Meta, or Informational>
 category: <Core, Networking, Interface, or DRC> # Only required for Standards Track. Otherwise, remove this field.
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
+bounty: <Suggested bounty in DEGEN offered to the first accepted implementation and deployment of the DIP. Bounty claimants should please share their relevant background/experience and confirm with the core devs before starting work.>
 requires: <DIP number(s)> # Only required when you reference an DIP in the `Specification` section. Otherwise, remove this field.
 ---
 
